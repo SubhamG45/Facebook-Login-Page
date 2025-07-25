@@ -1,0 +1,95 @@
+body{
+    background-color: lightgrey;
+    display: flex;
+    justify-content: end;
+    
+}
+#boxes{
+    
+     width: 290px;
+     border-radius: 3px;
+     margin-left: 5px;
+     border: 1px solid lightgrey;
+     margin-top: 5px;
+     padding: 7px;
+}
+#box{
+    border: 1px solid blue;
+    width: 290px;
+    border-radius: 3px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 7px;
+}
+.box-fb{
+    border:1px ;
+    margin-top:3px ;
+}
+.login-button input{
+    background-color:blue ;
+    color: white;
+    width:310px;
+    border-radius: 3px;
+    border:1px solid black;
+    margin-top: 12px;
+    margin-left: 3px;
+    padding:4px;
+}
+.boxx{
+    height: 250px;
+    width: 320px;
+    border: 1px solid white;
+    align-items: center;
+    background: white;
+    border-radius: 3px;
+    margin-top: 3px;
+}
+ a{
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    color: blue;
+    margin-top: 7px;
+}
+  #new{
+    background-color: darkgreen;
+    border: 1px solid yellowgreen;
+     display: flex;
+    justify-content: center;
+    padding: 5px;
+    
+    color:white;
+}
+.new-acc{
+    display: flex;
+    
+    justify-content: center;
+    margin-top:23px;
+    padding-right: 20px;
+    padding:10px;
+
+}
+h1{
+    color: blue;
+    text-decoration: underline;
+    text-transform: capitalize;
+    margin-right: 90px;
+}
+img{
+    margin-right: 100px;
+    height: 220px;
+    border-radius: 2px;
+    width: 250px;
+}
+   .win h2{
+   margin-bottom: 47px;
+   color: blue;
+   height: 100px;
+   margin-left: 70px;
+   text-transform: capitalize;
+   text-decoration:wavy;
+    
+}
+
+
